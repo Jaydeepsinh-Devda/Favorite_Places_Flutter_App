@@ -1,3 +1,3 @@
-# Favorite Places Flutter App
+# Favorite Places App
 
 A new Flutter project.
