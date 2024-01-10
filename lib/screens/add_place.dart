@@ -25,7 +25,7 @@ class _AddPlaceScreenState extends State<AddPlaceScreen> {
         title: const Text('Add new Place'),
       ),
       body: SingleChildScrollView(
-        padding: EdgeInsets.all(12),
+        padding: const EdgeInsets.all(12),
         child: Column(
           children: [
             TextField(
